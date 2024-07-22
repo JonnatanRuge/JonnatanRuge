@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=JonnatanRuge&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="center">
   <h1 align="center">Welcome!👋</h1>
 </p>
@@ -5,7 +6,6 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 </p>
 <p>I am a back-end developer, I'm a Competitive Programmer.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 ¡Hola! Soy un programador joven y entusiasta de 26 años de Colombia, apasionado por la tecnología y el desarrollo de software. Mi principal motivación es aprender continuamente y destacarme en el mundo de la programación. Me encanta enfrentar nuevos desafíos y estoy siempre en busca de oportunidades para colaborar en proyectos innovadores.<br><br>Me considero una persona proactiva y autodidacta, con un fuerte deseo de contribuir y crecer profesionalmente. He trabajado en diversas áreas de desarrollo, desde la creación de aplicaciones web hasta la implementación de sistemas complejos. Mi objetivo es participar en proyectos que no solo me permitan aplicar mis conocimientos, sino también adquirir nuevas habilidades y experiencias.<br><br>Estoy particularmente interesado en:<br><br>Desarrollo web y móvil<br>Implementación de soluciones con tecnologías modernas<br>Colaboración en equipos multidisciplinarios<br>Innovación y mejora continua<br><br>Si estás buscando un programador con ganas de aprender, crecer y aportar al máximo, ¡no dudes en contactarme! Estoy listo para asumir nuevos retos y contribuir con mi energía y conocimientos a proyectos emocionantes.<br><br>
 
@@ -22,8 +22,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JonnatanRuge&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=JonnatanRuge&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
