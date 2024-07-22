@@ -1,4 +1,4 @@
-# 💫 About Me:<p align="center">
+<p align="center">
   <h1 align="center">Welcome!👋</h1>
 </p>
 <p align="center">
